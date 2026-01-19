@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://rangerxml.com/Dev/dist/bannerFranklim.jpg)
 
 ## Build your own &lt;insert-technology-here&gt;
 
