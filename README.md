@@ -1,4 +1,4 @@
-[![Banner](https://rangerxml.com/Dev/dist/bannerFranklim.jpg)
+[![Banner]([https://rangerxml.com/Dev/dist/bannerFranklim.jpg](https://drive.google.com/file/d/1y8r6UUGmaV5O2cTJcU7HYIG0U15UcOPS/view?usp=sharing))
 
 ## Build your own &lt;insert-technology-here&gt;
 
